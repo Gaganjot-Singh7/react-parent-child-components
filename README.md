@@ -1,8 +1,5 @@
-# React + Vite
+# Project of parent child components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Before move to work in context and redux get knowlede about how to pass data in App.js from components 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pass data of comC from the comb,then comA and pass to App.js
